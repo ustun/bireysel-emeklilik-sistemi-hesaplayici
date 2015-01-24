@@ -1,845 +1,847 @@
-
-
-In [44]: karsilastirmalar()
-Yillik faiz 5 Fon getirisi 2
+Python 2.7.6 (default, Sep  9 2014, 15:04:36)
+[GCC 4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.39)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> __pyfile = open('''/var/folders/vx/sjrn1qjj1ps5r0jz6_3qk7680000gn/T/py35348_B0''');exec(compile(__pyfile.read(), '''/Users/ustun/Projects/bireysel_emeklilik_sistemi/bes.py''', 'exec'));__pyfile.close(); import os; os.remove('''/var/folders/vx/sjrn1qjj1ps5r0jz6_3qk7680000gn/T/py35348_B0''')
+>>> karsilastirmalar()
+karsilastirmalar()
+Yillik faiz 5.0 Fon getirisi 2.5
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 5 Fon getirisi 3
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 5 Fon getirisi 3
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 5 Fon getirisi 4
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 5 Fon getirisi 4
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 5 Fon getirisi 5
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 5 Fon getirisi 5
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 5 Fon getirisi 6
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 5 Fon getirisi 6
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 5 Fon getirisi 7
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
-getiri yuzde  78
-Yillik faiz 5 Fon getirisi 2
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 5 Fon getirisi 3
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 5.0 Fon getirisi 3.0
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 5 Fon getirisi 3
+Yillik faiz 5.0 Fon getirisi 3.5
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 5 Fon getirisi 4
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 5 Fon getirisi 4
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 5.0 Fon getirisi 4.0
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 5 Fon getirisi 5
+Yillik faiz 5.0 Fon getirisi 4.5
+faizle biriken para 15364
+getiri yuzde  28
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 5.0 Fon getirisi 5.0
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 5 Fon getirisi 5
+Yillik faiz 5.0 Fon getirisi 5.5
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 5 Fon getirisi 6
-faizle biriken para 15364
-getiri yuzde  28
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 5 Fon getirisi 6
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 5.0 Fon getirisi 6.0
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 5 Fon getirisi 7
+Yillik faiz 5.0 Fon getirisi 6.5
+faizle biriken para 15364
+getiri yuzde  28
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 5.0 Fon getirisi 7.0
 faizle biriken para 15364
 getiri yuzde  28
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 6 Fon getirisi 2
+Yillik faiz 5.5 Fon getirisi 2.5
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 5.5 Fon getirisi 3.0
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
+getiri yuzde  44
+Yillik faiz 5.5 Fon getirisi 3.5
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 5.5 Fon getirisi 4.0
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
+getiri yuzde  51
+Yillik faiz 5.5 Fon getirisi 4.5
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 5.5 Fon getirisi 5.0
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
+getiri yuzde  60
+Yillik faiz 5.5 Fon getirisi 5.5
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 5.5 Fon getirisi 6.0
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
+getiri yuzde  68
+Yillik faiz 5.5 Fon getirisi 6.5
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 5.5 Fon getirisi 7.0
+faizle biriken para 15778
+getiri yuzde  31
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
+getiri yuzde  78
+Yillik faiz 6.0 Fon getirisi 2.5
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 6 Fon getirisi 3
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 6.0 Fon getirisi 3.0
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 6 Fon getirisi 3
+Yillik faiz 6.0 Fon getirisi 3.5
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 6 Fon getirisi 4
-faizle biriken para 16206
-getiri yuzde  35
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 6 Fon getirisi 4
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 6.0 Fon getirisi 4.0
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 6 Fon getirisi 5
+Yillik faiz 6.0 Fon getirisi 4.5
+faizle biriken para 16206
+getiri yuzde  35
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 6.0 Fon getirisi 5.0
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 6 Fon getirisi 5
+Yillik faiz 6.0 Fon getirisi 5.5
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 6 Fon getirisi 6
-faizle biriken para 16206
-getiri yuzde  35
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 6 Fon getirisi 6
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 6.0 Fon getirisi 6.0
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 6 Fon getirisi 7
+Yillik faiz 6.0 Fon getirisi 6.5
+faizle biriken para 16206
+getiri yuzde  35
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 6.0 Fon getirisi 7.0
 faizle biriken para 16206
 getiri yuzde  35
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 6 Fon getirisi 2
-faizle biriken para 16206
-getiri yuzde  35
+Yillik faiz 6.5 Fon getirisi 2.5
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 6 Fon getirisi 3
-faizle biriken para 16206
-getiri yuzde  35
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 6 Fon getirisi 3
-faizle biriken para 16206
-getiri yuzde  35
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 6.5 Fon getirisi 3.0
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 6 Fon getirisi 4
-faizle biriken para 16206
-getiri yuzde  35
+Yillik faiz 6.5 Fon getirisi 3.5
+faizle biriken para 16650
+getiri yuzde  38
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 6.5 Fon getirisi 4.0
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 6 Fon getirisi 4
-faizle biriken para 16206
-getiri yuzde  35
+Yillik faiz 6.5 Fon getirisi 4.5
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 6 Fon getirisi 5
-faizle biriken para 16206
-getiri yuzde  35
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 6 Fon getirisi 5
-faizle biriken para 16206
-getiri yuzde  35
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 6.5 Fon getirisi 5.0
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 6 Fon getirisi 6
-faizle biriken para 16206
-getiri yuzde  35
+Yillik faiz 6.5 Fon getirisi 5.5
+faizle biriken para 16650
+getiri yuzde  38
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 6.5 Fon getirisi 6.0
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 6 Fon getirisi 6
-faizle biriken para 16206
-getiri yuzde  35
+Yillik faiz 6.5 Fon getirisi 6.5
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 6 Fon getirisi 7
-faizle biriken para 16206
-getiri yuzde  35
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 6.5 Fon getirisi 7.0
+faizle biriken para 16650
+getiri yuzde  38
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 7 Fon getirisi 2
+Yillik faiz 7.0 Fon getirisi 2.5
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 7 Fon getirisi 3
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 7 Fon getirisi 3
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 7.0 Fon getirisi 3.0
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 7 Fon getirisi 4
+Yillik faiz 7.0 Fon getirisi 3.5
+faizle biriken para 17108
+getiri yuzde  42
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 7.0 Fon getirisi 4.0
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 7 Fon getirisi 4
+Yillik faiz 7.0 Fon getirisi 4.5
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 7 Fon getirisi 5
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 7 Fon getirisi 5
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 7.0 Fon getirisi 5.0
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 7 Fon getirisi 6
+Yillik faiz 7.0 Fon getirisi 5.5
+faizle biriken para 17108
+getiri yuzde  42
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 7.0 Fon getirisi 6.0
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 7 Fon getirisi 6
+Yillik faiz 7.0 Fon getirisi 6.5
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 7 Fon getirisi 7
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
-getiri yuzde  78
-Yillik faiz 7 Fon getirisi 2
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 7 Fon getirisi 3
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 7 Fon getirisi 3
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 7 Fon getirisi 4
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 7 Fon getirisi 4
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 7 Fon getirisi 5
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 7 Fon getirisi 5
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 7 Fon getirisi 6
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 7 Fon getirisi 6
-faizle biriken para 17108
-getiri yuzde  42
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 7 Fon getirisi 7
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 7.0 Fon getirisi 7.0
 faizle biriken para 17108
 getiri yuzde  42
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 8 Fon getirisi 2
+Yillik faiz 7.5 Fon getirisi 2.5
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 7.5 Fon getirisi 3.0
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
+getiri yuzde  44
+Yillik faiz 7.5 Fon getirisi 3.5
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 7.5 Fon getirisi 4.0
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
+getiri yuzde  51
+Yillik faiz 7.5 Fon getirisi 4.5
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 7.5 Fon getirisi 5.0
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
+getiri yuzde  60
+Yillik faiz 7.5 Fon getirisi 5.5
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 7.5 Fon getirisi 6.0
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
+getiri yuzde  68
+Yillik faiz 7.5 Fon getirisi 6.5
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 7.5 Fon getirisi 7.0
+faizle biriken para 17583
+getiri yuzde  46
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
+getiri yuzde  78
+Yillik faiz 8.0 Fon getirisi 2.5
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 8 Fon getirisi 3
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 8.0 Fon getirisi 3.0
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 8 Fon getirisi 3
+Yillik faiz 8.0 Fon getirisi 3.5
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 8 Fon getirisi 4
-faizle biriken para 18074
-getiri yuzde  50
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 8 Fon getirisi 4
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 8.0 Fon getirisi 4.0
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 8 Fon getirisi 5
+Yillik faiz 8.0 Fon getirisi 4.5
+faizle biriken para 18074
+getiri yuzde  50
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 8.0 Fon getirisi 5.0
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 8 Fon getirisi 5
+Yillik faiz 8.0 Fon getirisi 5.5
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 8 Fon getirisi 6
-faizle biriken para 18074
-getiri yuzde  50
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 8 Fon getirisi 6
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 8.0 Fon getirisi 6.0
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 8 Fon getirisi 7
+Yillik faiz 8.0 Fon getirisi 6.5
+faizle biriken para 18074
+getiri yuzde  50
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 8.0 Fon getirisi 7.0
 faizle biriken para 18074
 getiri yuzde  50
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 8 Fon getirisi 2
-faizle biriken para 18074
-getiri yuzde  50
+Yillik faiz 8.5 Fon getirisi 2.5
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 8 Fon getirisi 3
-faizle biriken para 18074
-getiri yuzde  50
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 8 Fon getirisi 3
-faizle biriken para 18074
-getiri yuzde  50
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 8.5 Fon getirisi 3.0
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 8 Fon getirisi 4
-faizle biriken para 18074
-getiri yuzde  50
+Yillik faiz 8.5 Fon getirisi 3.5
+faizle biriken para 18582
+getiri yuzde  54
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 8.5 Fon getirisi 4.0
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 8 Fon getirisi 4
-faizle biriken para 18074
-getiri yuzde  50
+Yillik faiz 8.5 Fon getirisi 4.5
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 8 Fon getirisi 5
-faizle biriken para 18074
-getiri yuzde  50
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 8 Fon getirisi 5
-faizle biriken para 18074
-getiri yuzde  50
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 8.5 Fon getirisi 5.0
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 8 Fon getirisi 6
-faizle biriken para 18074
-getiri yuzde  50
+Yillik faiz 8.5 Fon getirisi 5.5
+faizle biriken para 18582
+getiri yuzde  54
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 8.5 Fon getirisi 6.0
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 8 Fon getirisi 6
-faizle biriken para 18074
-getiri yuzde  50
+Yillik faiz 8.5 Fon getirisi 6.5
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 8 Fon getirisi 7
-faizle biriken para 18074
-getiri yuzde  50
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 8.5 Fon getirisi 7.0
+faizle biriken para 18582
+getiri yuzde  54
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 9 Fon getirisi 2
+Yillik faiz 9.0 Fon getirisi 2.5
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 9 Fon getirisi 3
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 9 Fon getirisi 3
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 9.0 Fon getirisi 3.0
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 9 Fon getirisi 4
+Yillik faiz 9.0 Fon getirisi 3.5
+faizle biriken para 19108
+getiri yuzde  59
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 9.0 Fon getirisi 4.0
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 9 Fon getirisi 4
+Yillik faiz 9.0 Fon getirisi 4.5
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 9 Fon getirisi 5
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 9 Fon getirisi 5
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 9.0 Fon getirisi 5.0
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 9 Fon getirisi 6
+Yillik faiz 9.0 Fon getirisi 5.5
+faizle biriken para 19108
+getiri yuzde  59
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 9.0 Fon getirisi 6.0
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 9 Fon getirisi 6
+Yillik faiz 9.0 Fon getirisi 6.5
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 9 Fon getirisi 7
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
-getiri yuzde  78
-Yillik faiz 9 Fon getirisi 2
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 9 Fon getirisi 3
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 9 Fon getirisi 3
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 9 Fon getirisi 4
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 9 Fon getirisi 4
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 9 Fon getirisi 5
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 9 Fon getirisi 5
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 9 Fon getirisi 6
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 9 Fon getirisi 6
-faizle biriken para 19108
-getiri yuzde  59
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 9 Fon getirisi 7
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 9.0 Fon getirisi 7.0
 faizle biriken para 19108
 getiri yuzde  59
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 10 Fon getirisi 2
+Yillik faiz 9.5 Fon getirisi 2.5
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 9.5 Fon getirisi 3.0
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
+getiri yuzde  44
+Yillik faiz 9.5 Fon getirisi 3.5
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 9.5 Fon getirisi 4.0
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
+getiri yuzde  51
+Yillik faiz 9.5 Fon getirisi 4.5
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 9.5 Fon getirisi 5.0
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
+getiri yuzde  60
+Yillik faiz 9.5 Fon getirisi 5.5
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 9.5 Fon getirisi 6.0
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
+getiri yuzde  68
+Yillik faiz 9.5 Fon getirisi 6.5
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 9.5 Fon getirisi 7.0
+faizle biriken para 19652
+getiri yuzde  63
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
+getiri yuzde  78
+Yillik faiz 10.0 Fon getirisi 2.5
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 10 Fon getirisi 3
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 10.0 Fon getirisi 3.0
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 10 Fon getirisi 3
+Yillik faiz 10.0 Fon getirisi 3.5
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 10 Fon getirisi 4
-faizle biriken para 20216
-getiri yuzde  68
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 10 Fon getirisi 4
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 10.0 Fon getirisi 4.0
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 10 Fon getirisi 5
+Yillik faiz 10.0 Fon getirisi 4.5
+faizle biriken para 20216
+getiri yuzde  68
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 10.0 Fon getirisi 5.0
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 10 Fon getirisi 5
+Yillik faiz 10.0 Fon getirisi 5.5
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 10 Fon getirisi 6
-faizle biriken para 20216
-getiri yuzde  68
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 10 Fon getirisi 6
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 10.0 Fon getirisi 6.0
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 10 Fon getirisi 7
+Yillik faiz 10.0 Fon getirisi 6.5
+faizle biriken para 20216
+getiri yuzde  68
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 10.0 Fon getirisi 7.0
 faizle biriken para 20216
 getiri yuzde  68
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-Yillik faiz 10 Fon getirisi 2
-faizle biriken para 20216
-getiri yuzde  68
+Yillik faiz 10.5 Fon getirisi 2.5
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 16437
-getiri yuzde  36
-Yillik faiz 10 Fon getirisi 3
-faizle biriken para 20216
-getiri yuzde  68
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
-getiri yuzde  44
-Yillik faiz 10 Fon getirisi 3
-faizle biriken para 20216
-getiri yuzde  68
+bes ile devlet katkisi ve fon getirisi olarak biriken para 16861
+getiri yuzde  40
+Yillik faiz 10.5 Fon getirisi 3.0
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 17299
 getiri yuzde  44
-Yillik faiz 10 Fon getirisi 4
-faizle biriken para 20216
-getiri yuzde  68
+Yillik faiz 10.5 Fon getirisi 3.5
+faizle biriken para 20799
+getiri yuzde  73
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 17752
+getiri yuzde  47
+Yillik faiz 10.5 Fon getirisi 4.0
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
 getiri yuzde  51
-Yillik faiz 10 Fon getirisi 4
-faizle biriken para 20216
-getiri yuzde  68
+Yillik faiz 10.5 Fon getirisi 4.5
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 18220
-getiri yuzde  51
-Yillik faiz 10 Fon getirisi 5
-faizle biriken para 20216
-getiri yuzde  68
-bes ile sadece devlet katkisiyla biriken para 15000
-getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
-getiri yuzde  60
-Yillik faiz 10 Fon getirisi 5
-faizle biriken para 20216
-getiri yuzde  68
+bes ile devlet katkisi ve fon getirisi olarak biriken para 18704
+getiri yuzde  55
+Yillik faiz 10.5 Fon getirisi 5.0
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 19205
 getiri yuzde  60
-Yillik faiz 10 Fon getirisi 6
-faizle biriken para 20216
-getiri yuzde  68
+Yillik faiz 10.5 Fon getirisi 5.5
+faizle biriken para 20799
+getiri yuzde  73
+bes ile sadece devlet katkisiyla biriken para 15000
+getiri yuzde  25
+bes ile devlet katkisi ve fon getirisi olarak biriken para 19723
+getiri yuzde  64
+Yillik faiz 10.5 Fon getirisi 6.0
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
 getiri yuzde  68
-Yillik faiz 10 Fon getirisi 6
-faizle biriken para 20216
-getiri yuzde  68
+Yillik faiz 10.5 Fon getirisi 6.5
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
-bes ile devlet katkisi ve fon getirisi olarak biriken para 20258
-getiri yuzde  68
-Yillik faiz 10 Fon getirisi 7
-faizle biriken para 20216
-getiri yuzde  68
+bes ile devlet katkisi ve fon getirisi olarak biriken para 20812
+getiri yuzde  73
+Yillik faiz 10.5 Fon getirisi 7.0
+faizle biriken para 20799
+getiri yuzde  73
 bes ile sadece devlet katkisiyla biriken para 15000
 getiri yuzde  25
 bes ile devlet katkisi ve fon getirisi olarak biriken para 21385
 getiri yuzde  78
-
-In [45]: 
+>>> 

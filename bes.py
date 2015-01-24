@@ -1,3 +1,5 @@
+from __future__ import division
+
 def bes_vs_faiz(aylik_yatirilan_para=100, yillik_faiz=8.5, fon_getirisi=5):
     n_ay = 12 * 10;
 
